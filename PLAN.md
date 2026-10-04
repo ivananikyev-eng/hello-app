@@ -16,9 +16,9 @@
 - [x] ✅ git push
 
 ## Этап 4. Docker на ноутбуке
-- [х ] Написать Dockerfile
-- [ х] docker build
-- [х ] docker run
+- [x] Написать Dockerfile
+- [x] docker build
+- [x] docker run
 
 ## Этап 5. Docker Hub
 - [ ] Зарегистрироваться на Docker Hub
