@@ -21,9 +21,9 @@
 - [x] docker run
 
 ## Этап 5. Docker Hub
-- [ ] Зарегистрироваться на Docker Hub
-- [ ] docker login
-- [ ] docker push
+- [x] Зарегистрироваться на Docker Hub
+- [x] docker login
+- [x] docker push
 
 ## Этап 6. Сервер
 - [ ] Зайти на сервер по SSH
