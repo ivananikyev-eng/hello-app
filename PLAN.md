@@ -16,14 +16,14 @@
 - [x] ✅ git push
 
 ## Этап 4. Docker на ноутбуке
-- [x] Написать Dockerfile
-- [x] docker build
-- [x] docker run
+- [x] ✅ Написать Dockerfile
+- [x] ✅ docker build
+- [x] ✅ docker run
 
 ## Этап 5. Docker Hub
-- [x] Зарегистрироваться на Docker Hub
-- [x] docker login
-- [x] docker push
+- [x] ✅ Зарегистрироваться на Docker Hub
+- [x] ✅ docker login
+- [x] ✅ docker push
 
 ## Этап 6. Сервер
 - [ ] Зайти на сервер по SSH
